@@ -6,6 +6,34 @@ title: "Portfolio"
 
 Olá! Meu nome é **Arthur Costa Schaitza** e aluno de **Ciência de Dados** e **Machine Learning**. Aqui você encontrará alguns dos meus projetos e experiências.
 
+# **Consultor de TI \| SAP AMS & Suporte \| Gestão Ágil de Projetos e Equipes**
+
+Consultor de TI com sólida experiência em **SAP AMS, suporte a sistemas e gestão ágil de projetos**. Forte atuação na **liderança de equipes multidisciplinares, otimização de processos e excelência operacional**. Especialista em **gestão de SLA, comunicação com stakeholders e liderança de times**, garantindo alta performance e alinhamento estratégico. Apaixonado por **tecnologia, resolução de problemas e melhoria contínua** para impulsionar eficiência e inovação.
+
+## **Experiência**
+
+### **AB InBev**
+
+-   Gerenciei e acompanhei um time de mais de 30 consultores de AMS, desde SAP N2 até equipes de Banco de Dados.\
+-   Supervisei o cumprimento de SLA e a performance dos consultores.\
+-   Gerenciei a escala de plantão para garantir cobertura de suporte 24/7.\
+-   Liderei o processo de seleção para recrutar candidatos alinhados ao perfil da ABI.\
+-   Conduzi análises e implementei melhorias nos processos de AMS.
+
+### **Biotronik**
+
+-   Gerenciei a equipe de suporte ao sistema SAP B1.\
+-   Supervisei a resolução de tickets e o cumprimento de SLA.\
+-   Atuei como facilitador da comunicação entre as equipes de negócio e técnica.\
+-   Gerenciei o orçamento do suporte para garantir os resultados esperados.
+
+### **Balance of Nature**
+
+-   Gerenciei um time de desenvolvedores, designers e QA para o website.\
+-   Liderei um projeto ágil para desenvolvimento de uma plataforma de geração de cupons.\
+-   Atuei como ponte de comunicação entre equipes técnicas e stakeholders do negócio (de gerentes a vice-presidentes).\
+-   Levantei requisitos junto ao time de negócios para alinhar soluções técnicas às necessidades da empresa.
+
 ------------------------------------------------------------------------
 
 # 📊 Meus Projetos

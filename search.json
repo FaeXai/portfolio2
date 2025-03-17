@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "🚀 Sobre Mim\nOlá! Meu nome é Arthur Costa Schaitza e aluno de Ciência de Dados e Machine Learning. Aqui você encontrará alguns dos meus projetos e experiências.\n\n\n\n📊 Meus Projetos\n\n\n🎶 Música de Fundo\n\n\n\n\nSeu navegador não suporta áudio. \n:::\n\n::::"
+    "text": "Olá! Meu nome é Arthur Costa Schaitza e aluno de Ciência de Dados e Machine Learning. Aqui você encontrará alguns dos meus projetos e experiências."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#experiência",
+    "href": "index.html#experiência",
+    "title": "Portfolio",
+    "section": "Experiência",
+    "text": "Experiência\n\nAB InBev\n\nGerenciei e acompanhei um time de mais de 30 consultores de AMS, desde SAP N2 até equipes de Banco de Dados.\n\nSupervisei o cumprimento de SLA e a performance dos consultores.\n\nGerenciei a escala de plantão para garantir cobertura de suporte 24/7.\n\nLiderei o processo de seleção para recrutar candidatos alinhados ao perfil da ABI.\n\nConduzi análises e implementei melhorias nos processos de AMS.\n\n\n\nBiotronik\n\nGerenciei a equipe de suporte ao sistema SAP B1.\n\nSupervisei a resolução de tickets e o cumprimento de SLA.\n\nAtuei como facilitador da comunicação entre as equipes de negócio e técnica.\n\nGerenciei o orçamento do suporte para garantir os resultados esperados.\n\n\n\nBalance of Nature\n\nGerenciei um time de desenvolvedores, designers e QA para o website.\n\nLiderei um projeto ágil para desenvolvimento de uma plataforma de geração de cupons.\n\nAtuei como ponte de comunicação entre equipes técnicas e stakeholders do negócio (de gerentes a vice-presidentes).\n\nLevantei requisitos junto ao time de negócios para alinhar soluções técnicas às necessidades da empresa."
   }
 ]
