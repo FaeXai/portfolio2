@@ -1,6 +1,5 @@
 ---
 title: "Portfolio"
-format: html
 ---
 
 # 🚀 Sobre Mim
@@ -13,12 +12,16 @@ Olá! Meu nome é **Arthur Costa Schaitza** e aluno de **Ciência de Dados** e *
 
 # 🎶 Música de Fundo
 
-::: {#audio}
-<audio autoplay loop>
+:::: {#audio}
+<div>
+
+<audio controls>
 
 <source src="Saveiro pega no BREU.mp3" type="audio/mpeg">
 
 Seu navegador não suporta áudio. </audio>
 
 :::
-:::
+
+</div>
+::::
