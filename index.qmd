@@ -1,11 +1,24 @@
 ---
-title: "portfolio2"
+title: "Portfolio"
+format: html
 ---
 
-This is a Quarto website.
+# 🚀 Sobre Mim
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Olá! Meu nome é **Arthur Costa Schaitza** e aluno de **Ciência de Dados** e **Machine Learning**. Aqui você encontrará alguns dos meus projetos e experiências.
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+# 📊 Meus Projetos
+
+# 🎶 Música de Fundo
+
+::: {#audio}
+<audio autoplay loop>
+
+<source src="Saveiro pega no BREU.mp3" type="audio/mpeg">
+
+Seu navegador não suporta áudio. </audio>
+
+:::
+:::
